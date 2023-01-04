@@ -6,4 +6,3 @@ with fileinput.FileInput('line_wmkl_sonuc.xml', inplace=True) as file: #girdi ol
         return idas
 my_function()
 
-#herhangi bi text formatında olan dosyanın içerisindeki stringi, seçilen başka bir kelimeye çevirmeyi sağlar 
